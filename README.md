@@ -7,15 +7,17 @@ Customer Segmentation using K-Means  This project uses K-Means clustering to seg
 - Scatter plot visualization
 - Business insights based on cluster behavior
 
+- <img width="1047" height="920" alt="image" src="https://github.com/user-attachments/assets/aee7ee5f-362f-40d2-8e18-ad5a9416d781" />
+
+
 ## Tech Stack
 - Python
-- Pandas, NumPy
+- Pandas
 - Scikit-Learn
 - Matplotlib
-- Streamlit (for deployment)
+
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-connect me on www.linkedin.com/in/harish-karthick-399116263
