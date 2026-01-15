@@ -1,0 +1,11 @@
+CustomerID  Age	Gender	Country	AnnualIncome	SpendingScore	Membership
+C001	    22	Male	India	35000	              77	    Silver
+C002	    35	Female	India	68000	              40	     Gold
+C003	    29	Male	USA	  54000	                  60	        Bronze
+C004	    40	Female	UK	120000	                  29	      Platinum
+C005	    19	Female	India	24000	              90	   Silver
+C006	    52	Male	USA	80000	                  20	      Gold
+C007	    30	Male	Canada	65000	              67	   Silver
+C008	    45	Female	India	100000	               38	  Platinum
+C009	    27	Male	USA	45000	                   72	      Bronze
+C010	    33	Female	UK	90000	                   33	      Gold
